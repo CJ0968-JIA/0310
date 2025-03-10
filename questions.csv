@@ -1,0 +1,5 @@
+question,options,answer,type
+1+1是多少？,1;2;3;4,2,multiple-choice
+2+2是多少？,3;4;5;4,4,multiple-choice
+3+3是多少？,5;6;7;6,6,multiple-choice
+請填寫5+5的答案,,10,fill-in-the-blank
